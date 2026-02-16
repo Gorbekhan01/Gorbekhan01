@@ -1,7 +1,7 @@
 # Hi, I'm Gorbekhan 👋
 
 ### 🧑‍💻 Programmer & 🎨 Graphic Designer  
-*(legend says I'm the best.)*
+*(legends say I'm the best.)*
 
 Coding with paws isn’t easy… but I always give it my best.
 
