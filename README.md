@@ -1,4 +1,4 @@
-# Hi, I'm Gorbekhan 👋
+# Hi, I'm Nader 👋
 
 ### 🧑‍💻 Programmer & 🎨 Graphic Designer  
 
