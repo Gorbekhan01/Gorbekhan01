@@ -9,9 +9,7 @@
 - 🎨 Passionate about design & clean UI  
 - 🔥 Always learning new technologies  
 
----
 
 ## 🌐 Portfolio
 🔗 https://gorbekhan.vercel.app
 
----
