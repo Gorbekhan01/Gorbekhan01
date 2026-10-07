@@ -1,15 +1,11 @@
-# Hi, I'm Nader 👋
+### Hi, I'm Nader 👋
 
-### 🧑‍💻 Programmer & 🎨 Graphic Designer  
+
+👀 Tech geek & Graphic Designer<br>
+✏️ Interested in AI, NLP, and Web Development
 
 ---
 
-## 🚀 About Me
-- 💻 I build creative and functional digital experiences  
-- 🎨 Passionate about design & clean UI  
-- 🔥 Always learning new technologies  
+### GitHub Stats
 
-
-## 🌐 Portfolio
-🔗 https://gorbekhan.vercel.app
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorbekhan01&theme=holi)
